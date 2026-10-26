@@ -1,0 +1,101 @@
+{
+  "report": [
+    {
+      "width": 1440,
+      "route": "/",
+      "text": "20+\nлет\nбанковской и экспертной практики",
+      "years": "лет",
+      "copy": "банковской и экспертной практики",
+      "centreOffset": 0,
+      "badgeFits": true,
+      "overflow": false,
+      "headerImage": true,
+      "footerFilter": "none"
+    },
+    {
+      "width": 1440,
+      "route": "/expert",
+      "text": "20+\nлет\nбанковской и экспертной практики",
+      "years": "лет",
+      "copy": "банковской и экспертной практики",
+      "centreOffset": 0,
+      "badgeFits": true,
+      "overflow": false,
+      "headerImage": true,
+      "footerFilter": "none"
+    },
+    {
+      "width": 1176,
+      "route": "/",
+      "text": "20+\nлет\nбанковской и экспертной практики",
+      "years": "лет",
+      "copy": "банковской и экспертной практики",
+      "centreOffset": 0,
+      "badgeFits": true,
+      "overflow": false,
+      "headerImage": true,
+      "footerFilter": "none"
+    },
+    {
+      "width": 1176,
+      "route": "/expert",
+      "text": "20+\nлет\nбанковской и экспертной практики",
+      "years": "лет",
+      "copy": "банковской и экспертной практики",
+      "centreOffset": 0,
+      "badgeFits": true,
+      "overflow": false,
+      "headerImage": true,
+      "footerFilter": "none"
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "text": "20+\nлет\nбанковской и экспертной практики",
+      "years": "лет",
+      "copy": "банковской и экспертной практики",
+      "centreOffset": 0,
+      "badgeFits": true,
+      "overflow": false,
+      "headerImage": true,
+      "footerFilter": "none"
+    },
+    {
+      "width": 390,
+      "route": "/expert",
+      "text": "20+\nлет\nбанковской и экспертной практики",
+      "years": "лет",
+      "copy": "банковской и экспертной практики",
+      "centreOffset": 0,
+      "badgeFits": true,
+      "overflow": false,
+      "headerImage": true,
+      "footerFilter": "none"
+    },
+    {
+      "width": 320,
+      "route": "/",
+      "text": "20+\nлет\nбанковской и экспертной практики",
+      "years": "лет",
+      "copy": "банковской и экспертной практики",
+      "centreOffset": 0,
+      "badgeFits": true,
+      "overflow": false,
+      "headerImage": true,
+      "footerFilter": "none"
+    },
+    {
+      "width": 320,
+      "route": "/expert",
+      "text": "20+\nлет\nбанковской и экспертной практики",
+      "years": "лет",
+      "copy": "банковской и экспертной практики",
+      "centreOffset": 0,
+      "badgeFits": true,
+      "overflow": false,
+      "headerImage": true,
+      "footerFilter": "none"
+    }
+  ],
+  "errors": []
+}
