@@ -7,4 +7,4 @@ storage/*
 *.zip
 
 source-materials/
-index.html
+../index.html
